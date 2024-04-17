@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bgRightLetterRightPlace">#4CAF50</color>
+    <color name="bgRightLetterWrongPlace">#D5DE75</color>
+    <color name="bgWrongLetter">#FF3D3D3D</color>
+
+    <color name="bgEmptyLetter">#FFC4C4C4</color>
+    <color name="bgUncheckedLetter">#FFC4C4C4</color>
+
+    <color name="bgNormalButton">#FF3D3D3D</color>
+    <color name="bgPressedButton">#FFC4C4C4</color>
+    <color name="bgWrongButton">#FE7267</color>
+    <color name="bgRightButtonRightPlace">#4CAF50</color>
+    <color name="bgRightButtonWrongPlace">#D5DE75</color>
+</resources>
